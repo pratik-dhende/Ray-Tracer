@@ -1,6 +1,11 @@
 # Ray-Tracer
 Monte-Carlo sampling-based BRDF CPU Ray Tracer
 
+**Note**: The code is not disclosed as it was implemented as a part of CSCI 420 Computer Graphics course at the University of Southern California.
+
+## Tecnhological Stack
+`C++ • OpenGL • OpenMP`
+
 ## Features
 - Ray tracing triangles
 - Ray tracing spheres
