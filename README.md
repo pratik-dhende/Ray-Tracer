@@ -4,7 +4,7 @@ Monte-Carlo sampling-based BRDF CPU Ray Tracer
 **Note**: The code is not disclosed as it was implemented as a part of CSCI 420 Computer Graphics course at the University of Southern California.
 
 ## Tecnhological Stack
-`C++ • OpenMP`
+`C++`
 
 ## Features
 - Ray tracing triangles
@@ -15,7 +15,6 @@ Monte-Carlo sampling-based BRDF CPU Ray Tracer
 - Recursive Reflection
 - Soft Shadows
 - BRDF
-- OpenMP
 
 ## Renderings
 
